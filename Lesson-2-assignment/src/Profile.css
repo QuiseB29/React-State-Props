@@ -1,0 +1,31 @@
+body  {
+    font-family: 'Arial, sans-serif';
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: black
+}
+
+header, section, footer {
+    padding: 20px;
+    margin: 20px;
+}
+
+h1, h2 {
+    color:rgb(215, 4, 4);
+}
+
+button {
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+ul {
+    border: 2px solid;
+    border-radius: 10%;
+    height: 170px;
+    width: 100px;
+}
